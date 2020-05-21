@@ -1,4 +1,4 @@
 # scripts
  
-  Update: sh -c "$(curl -fsSL https://raw.githubusercontent.com/mykaelandrade/scripts/blob/master/scripts/update.sh)"
+  Update: sh -c "$(curl -fsSL https://github.com/mykaelandrade/scripts/blob/master/scripts/update.sh)"
 
