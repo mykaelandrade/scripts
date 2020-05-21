@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #scripts
 
  Update: sh -c "$(curl -fsSL https://raw.githubusercontent.com/mykaelandrade/scripts/master/scripts/update.sh)"
@@ -8,3 +9,6 @@
  IDE: sh -c "$(curl https://raw.githubusercontent.com/mykaelandrade/scripts/master/scripts/IDE.sh)"
  Art: sh -c "$(curl -fsSL https://raw.githubusercontent.com/JefersonOC/bash/master/dev-tools/extra/art.sh)"
  Stuffs: sh -c "$(curl -fsSL https://raw.githubusercontent.com/JefersonOC/bash/master/dev-tools/extra/stuffs.sh)"
+=======
+# scripts
+>>>>>>> 13f2881a1cba523d4d0eb3977ecfa0b667aadb52
